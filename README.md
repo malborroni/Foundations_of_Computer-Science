@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="75%" src="https://github.com/tmscarla/spotify-recsys-challenge/blob/master/images/spotifychallenge.png">
+  <img width="75%" src="https://github.com/malborroni/Sperimento-e-mi-lamento/images/GitHub.png">
   <img width="60%" src="https://github.com/tmscarla/spotify-recsys-challenge/blob/master/images/logo.png">
 </p>
 
