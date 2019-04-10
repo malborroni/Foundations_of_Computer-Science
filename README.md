@@ -1,7 +1,5 @@
 <p align="center">
   <a href="http://datascience.disco.unimib.it/it/"><img src = "https://github.com/malborroni/Sperimento-e-mi-lamento/blob/master/images/DSunimib.png" width = "90%"></a>
-  <img width = "10%" src = "https://github.com/malborroni/Sperimento-e-mi-lamento/blob/master/images/GitHub.png">
-  <img width = "20%" src = "https://github.com/malborroni/Sperimento-e-mi-lamento/blob/master/images/GPS.png">
 </p>
 
 <br>
