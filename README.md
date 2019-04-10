@@ -17,6 +17,4 @@ Here I am: **[@malborroni](https://github.com/malborroni)**
 <a href = "https://github.com/malborroni/" class = "fa fa-github"></a>
 </p>
 
-<img 
-    src="174848.svg" 
-    />
+<img src="174848.svg">
