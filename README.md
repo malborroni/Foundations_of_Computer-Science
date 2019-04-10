@@ -17,4 +17,4 @@ Here I am: **[@malborroni](https://github.com/malborroni)**
 <a href = "https://github.com/malborroni/" class = "fa fa-github"></a>
 </p>
 
-<img src="https://github.com/malborroni/Sperimento-e-mi-lamento/blob/master/images/174848.svg">
+<img src="https://github.com/malborroni/Sperimento-e-mi-lamento/blob/master/images/174848.svg" width = "4%">
