@@ -10,7 +10,7 @@
 Here I am: **[@malborroni](https://github.com/malborroni)** 
 
 <p style="text-align: center;">
-<a href="https://twitter.com/malborroni" img width = "90%" src = "https://github.com/malborroni/Sperimento-e-mi-lamento/blob/master/images/DSunimib.png"></a>
-<a href="https://www.instagram.com/aleborroni/" class="fa fa-instagram"></a>
-<a href="https://github.com/malborroni/" class="fa fa-github"></a>
+<a href="https://twitter.com/malborroni"><img src = "https://github.com/malborroni/Sperimento-e-mi-lamento/blob/master/images/DSunimib.png" width = "90%"></a>
 </p>
+
+<a href="../html-link.htm"><img src="flower.jpg" width="82" height="86" title="White flower" alt="Flower"></a>
