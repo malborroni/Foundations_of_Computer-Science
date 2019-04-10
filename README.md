@@ -9,10 +9,10 @@
 ## Titolo
 Here I am: **[@malborroni](https://github.com/malborroni)** 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<p style="text-align: center;">
-<a href="https://twitter.com/malborroni" class="fa fa-twitter"></a>
-<a href="https://www.instagram.com/aleborroni/" class="fa fa-instagram"></a>
-<a href="https://github.com/malborroni/" class="fa fa-github"></a>
+<p style = "text-align: center;">
+<a href = "https://twitter.com/malborroni" class = "fa fa-twitter"></a>
+<a href = "https://www.instagram.com/aleborroni/" class = "fa fa-instagram"></a>
+<a href = "https://github.com/malborroni/" class = "fa fa-github"></a>
 </p>
