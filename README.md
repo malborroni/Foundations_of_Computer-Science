@@ -15,5 +15,4 @@ Here I am: **[@malborroni](https://github.com/malborroni)**
   <a href = "https://github.com/malborroni/"><img src="https://github.com/malborroni/Sperimento-e-mi-lamento/blob/master/images/GitHub.png" width = "2%"></a>
   <a href = "https://www.twitter.com/malborroni/"><img src="https://github.com/malborroni/Sperimento-e-mi-lamento/blob/master/images/Twitter_bird_logo.png" width = "2%"></a>
   <a href = "https://www.facebook.com/alessandro.borroni.777"><img src="https://github.com/malborroni/Sperimento-e-mi-lamento/blob/master/images/174848.svg" width = "2%"></a>
-  <a href = "https://www.twitter.com/andreamaurino/"><img src="https://github.com/malborroni/Sperimento-e-mi-lamento/blob/master/images/1650536.svg" width = "2%"></a>
 </p>
