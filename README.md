@@ -22,32 +22,30 @@ Starting from the Google Play Store dataset,
 All groups and individual must do the following:
 
     
-    Convert Current Ver and Android Ver into a dotted number (e.g. 4.0.3 or 4.2)
-    Remove the duplicates
-    For each category, compute the number of apps
-    For each category, compute the average rating
-    Create two dataframes: one for the genres and one bridging apps and genres. So that, for instance, the app Pixel Draw - Number Art Coloring Book appears twice in the bridging table, once for Art & Design, once for Creativity
+    
     For each genre, create a new column of the original dataframe. The new columns must have boolean values (True if the app has a given genre)
-    For each genre, compute the average rating. What is the genre with highest average?
+    
     For each app, compute the approximate income, obtain as a product of number of installs and price.
     For each app, compute its minimum and maximum Sentiment_polarity
 
 
 
-|                                                   | To do list                             | Team size    | Status      |
-|:--------------------------------------------------|:---------------------------------------|:-------------|:------------|
-| Exercise 1  | Convert the app sizes to a number                                            | 1            | &#10004;    |
-| Exercise 2  | Convert the number of installs to a number                                   | 1            | &#10004;    |
-| Exercise 3  | Transform “Varies with device” into a missing value                          | 1            | &#10004;    |
-| Exercise 4  | Convert Current Ver and Android Ver into a dotted number (e.g. 4.0.3 or 4.2) | 1            | &#10004;    |
-| Exercise 5  |                                                                              | 1            | &#10004;    |
-| Exercise 6  |                                                                              | 1            | &#10004;    |
-| Exercise 7  | [IBM Plex][f-ibm-plex]                                                       | 1            | &#10004;    |
-| Exercise 8  |                                                                              | 1            | &#10004;    |
-| Exercise 9  |                                                                              | 1            | &#10004;    |
-| Exercise 10 | [IBM Plex][f-ibm-plex]                                                       | 1            | &#10004;    |
-| Exercise 11 |                                                                              | 1            | &#10004;    |
-| Exercise 12 |                                                                              | 1            | &#10004;    |
+
+|             | To do list                                                                     | Team size    | Status      |
+|:------------|:-------------------------------------------------------------------------------|:-------------|:------------|
+| Exercise 1  | _Convert the app sizes to a number_                                            | 1            | &#10004;    |
+| Exercise 2  | _Convert the number of installs to a number_                                   | 1            | &#10004;    |
+| Exercise 3  | _Transform “Varies with device” into a missing value_                          | 1            | &#10004;    |
+| Exercise 4  | _Convert Current Ver and Android Ver into a dotted number (e.g. 4.0.3 or 4.2)_ | 1            | &#10004;    |
+| Exercise 5  | _Remove the duplicates_                                                        | 1            | &#10004;    |
+| Exercise 6  | _For each category, compute the number of apps_                                | 1            | &#10004;    |
+| Exercise 7  | _For each category, compute the average rating_                                | 1            | &#10004;    |
+| Exercise 8  | _Create two dataframes: one for the genres and one bridging apps and genres. So that, for instance, the app Pixel Draw - Number Art Coloring Book appears twice in the bridging table, once for Art & Design, once for Creativity_      | 1            | &#10004;    |
+| Exercise 9  | _For each genre, create a new column of the original dataframe. The new columns must have boolean values (True if the app has a given genre)_                       | 1            | &#10004;    |
+| Exercise 10 | _For each genre, compute the average rating. What is the genre with highest average?_                       | 1            | &#10004;    |
+| Exercise 11 | _For each app, compute the approximate income, obtain as a product of number of installs and price_        | 1            | &#10004;    |
+| Exercise 12 |  _For each app, compute its minimum and maximum Sentiment_polarity_            | 1            | &#10004;    |
+|             |                                                                                | 1            | &#10004;    |
 | Exercise 7  | [IBM Plex][f-ibm-plex]                                                       | 1            | &#10004;    |
 | Exercise 5  |                                                                              | 1            | &#10004;    |
 | Exercise 6  |                                                                              | 1            | &#10004;    |
