@@ -51,7 +51,7 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 
 ### **Notes**
 
-1. It is mandatory to use [GitHub] for developing the project.
+1. It is mandatory to use [GitHub](https://github.com) for developing the project.
 2. The project must be a jupyter notebook.
 3. There is no restriction on the libraries that can be used, nor on the Python version.
 4. Post any question on the Discussions forum
