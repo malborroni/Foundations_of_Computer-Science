@@ -9,10 +9,10 @@
 </h1>
 
 <p align="center">
-  <a href="#overview">Overview</a> |
-  <a href="#instructions">Instructions</a> |
-  <a href="#datasets">Datasets</a> |
-  <a href="#Conclusion">Conclusion</a>
+  <a href="#overview">Overview </a> |
+  <a href="#instructions"> Instructions </a> |
+  <a href="#datasets"> Datasets </a> |
+  <a href="#Conclusion"> Conclusion </a>
 </p>
 
 
@@ -36,7 +36,7 @@ All groups and individual must do the following:
 
 
 
-                                                    | To do list                        | Team size    | Status     |
+|                                                   | To do list                        | Team size    | Status     |
 |:--------------------------------------------------|:----------------------------------|:-------------|:-----------|
 | Convert the app sizes to a number                 | [3270][f-3270]                    | NO   | 1000    | ![w] ![m2] ![l]   |
 | [Anonymice Nerd Font][p-anonymous-pro]            | [Anonymous Pro][f-a-pro]          | NO   | 2048    | ![w] ![m2] ![l]   |
