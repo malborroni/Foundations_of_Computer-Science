@@ -10,8 +10,8 @@
 
 
 <p align="center">
-  <a href="#key-features">Instructions</a> •
-  <a href="#how-to-use">Datasets</a> •
+  <a href="#key-features">Instructions</a> |
+  <a href="#how-to-use">Datasets</a> |
   <a href="#license">Conclusion</a>
 </p>
 
