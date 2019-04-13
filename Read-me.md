@@ -62,9 +62,11 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 4. Post any question on the [Discussions](https://elearning.unimib.it/mod/forum/view.php?id=238437) forum.
 
 
- <form>
-<input class="MyButton" type="button" value="Your Text Here" onclick="window.location.href='http://www.hyperlinkcode.com/button-links.php'" />
-</form> 
+<a href="contact_us.html">
+   <button class="button -blue -bordered">
+       <span class="button--inner">Google Play Store</span>
+   </button>
+</a>
 
 
 Here I am: **[@malborroni](https://github.com/malborroni)**
