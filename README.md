@@ -21,14 +21,6 @@
 Starting from the Google Play Store dataset,
 All groups and individual must do the following:
 
-    
-    
-    For each genre, create a new column of the original dataframe. The new columns must have boolean values (True if the app has a given genre)
-    
-    For each app, compute the approximate income, obtain as a product of number of installs and price.
-    For each app, compute its minimum and maximum Sentiment_polarity
-
-
 
 
 |             | To do list                                                                     | Team size    | Status      |
@@ -41,22 +33,22 @@ All groups and individual must do the following:
 | Exercise 6  | _For each category, compute the number of apps_                                | 1            | &#10004;    |
 | Exercise 7  | _For each category, compute the average rating_                                | 1            | &#10004;    |
 | Exercise 8  | _Create two dataframes: one for the genres and one bridging apps and genres. So that, for instance, the app Pixel Draw - Number Art Coloring Book appears twice in the bridging table, once for Art & Design, once for Creativity_      | 1            | &#10004;    |
-| Exercise 9  | _For each genre, create a new column of the original dataframe. The new columns must have boolean values (True if the app has a given genre)_                       | 1            | &#10004;    |
+| Exercise 9  | _For each genre, create a new column of the original dataframe. The new columns must have boolean values (True if the app has a given genre)_                                                                 | 1            | &#10004;    |
 | Exercise 10 | _For each genre, compute the average rating. What is the genre with highest average?_                       | 1            | &#10004;    |
-| Exercise 11 | _For each app, compute the approximate income, obtain as a product of number of installs and price_        | 1            | &#10004;    |
-| Exercise 12 |  _For each app, compute its minimum and maximum Sentiment_polarity_            | 1            | &#10004;    |
-|             |                                                                                | 1            | &#10004;    |
-| Exercise 7  | [IBM Plex][f-ibm-plex]                                                       | 1            | &#10004;    |
-| Exercise 5  |                                                                              | 1            | &#10004;    |
-| Exercise 6  |                                                                              | 1            | &#10004;    |
-| Exercise 7  | [IBM Plex][f-ibm-plex]                                                       | 1            | &#10004;    |
-| Exercise 8  |                                   | NO   | 2048    |
-| Exercise 9  | [Cousine][f-cousine]              | NO   | 1000    |
-| Exercise 10 |                                   | NO   | 2048    |
-| Exercise 11 |                                   | NO   | 2048    |
-| Exercise 12 | [Fantasque Sans][f-fant]          | NO   | 2048    |
-| Exercise 13 | [Fira Code][f-fira-code]          | YES  | 1000    |
-| Exercise 14 | [Fira][f-fira-mono]               | YES  | &#10006;    | 
+| Exercise 11 | _For each app, compute the approximate income, obtain as a product of number of installs and price_         | 1            | &#10004;    |
+| Exercise 12 |  _For each app, compute its minimum and maximum Sentiment_polarity_             | 1           | &#10004;    |
+|             |                                                                                 |             |             |
+| Exercise 1  | _For each app, compute the average number of words in its reviews_              | 2           | &#10006;    |
+| Exercise 2  | _For each app, compute its longest review_                                      | 2           | &#10006;    |
+| Exercise 3  | _For each app, compute the ratio between the number of installs and the number of reviews_                  | 2            | &#10006;    |
+| Exercise 4  | _Cluster the apps according to the major android version (the first two digits — e.g. for 4.0.3 the major version is 4.0)_                                                                                | 2           | &#10006;    |
+| Exercise 5  | _For each cluster, compute the average date and the last date of an update._    | 2           | &#10006;    |
+| Exercise 6  | _Excluding the free apps, what is the content rating with highest average price?_                           | 2   | &#10006;    |
+|             |                                                                                |     |      |
+| Exercise 1  |                                   | NO   | 2048    |
+| Exercise 2  | [Fantasque Sans][f-fant]          | NO   | 2048    |
+| Exercise 3  | [Fira Code][f-fira-code]          | YES  | 1000    |
+| Exercise 4  | [Fira][f-fira-mono]               | YES  | &#10006;    | 
 | [Go Mono Nerd Font][p-go-mono]                    | [Go-Mono][f-go-mono]              | NO   | 1000    |
 | [Gohu Nerd Font][p-gohu]                          | [Gohu TTF][f-gohu2],[Gohu][f-gohu]| NO   | 1000    |
 | [Hack Nerd Font][p-hack]                          | [Hack][f-hack]                    | NO   | 2048    |
