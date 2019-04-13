@@ -23,8 +23,8 @@ All groups and individual must do the following:
 
 
 
-|             | To do list                        | Team size    | Status      |
-|:-----------:|:----------------------------------|:------------:|:-----------:|
+| Exercise    | To do list                        | Team size    | Status      |
+|:------------|:----------------------------------|:------------:|:-----------:|
 | Exercise 1  | _Convert the app sizes to a number_                                            | 1            | &#10004;    |
 | Exercise 2  | _Convert the number of installs to a number_                                   | 1            | &#10004;    |
 | Exercise 3  | _Transform “Varies with device” into a missing value_                          | 1            | &#10004;    |
