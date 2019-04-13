@@ -15,9 +15,9 @@
   <a href="#Conclusion"> Conclusion </a>
 </p>
 
-## Overview
+## &#9741; &nbsp; Overview
 
-## Instructions
+## &#9741; &nbsp; Instructions
 
 Starting from the *Google Play Store dataset*, all groups and individuals must do the following:
 
