@@ -8,11 +8,11 @@
   <br>
 </h1>
 
-
 <p align="center">
-  <a href="#key-features">Instructions</a> |
-  <a href="#how-to-use">Datasets</a> |
-  <a href="#license">Conclusion</a>
+  <a href="#overview">Overview</a> |
+  <a href="#instructions">Instructions</a> |
+  <a href="#datasets">Datasets</a> |
+  <a href="#Conclusion">Conclusion</a>
 </p>
 
 
