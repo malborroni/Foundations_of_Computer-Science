@@ -15,11 +15,11 @@
   <a href="#Conclusion">&nbsp; Conclusion &nbsp;</a>
 </p>
 
-## &#9741; &nbsp; Overview
 <a name="overview"></a>
+## &#9741; &nbsp; Overview
 
-## &#9741; &nbsp; Instructions
 <a name="instructions"></a>
+## &#9741; &nbsp; Instructions
 
 Starting from the *Google Play Store dataset*, all groups and individuals must do the following:
 
