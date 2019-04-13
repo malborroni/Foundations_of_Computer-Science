@@ -9,10 +9,10 @@
 </h1>
 
 <p align="center">
-  <a href="#overview">Overview </a> |
-  <a href="#instructions"> Instructions </a> |
-  <a href="#datasets"> Datasets </a> |
-  <a href="#Conclusion"> Conclusion </a>
+  <a href="#overview">Overview &nbsp;</a> |
+  <a href="#instructions">&nbsp; Instructions &nbsp;</a> |
+  <a href="#datasets">&nbsp; Datasets &nbsp;</a> |
+  <a href="#Conclusion">&nbsp; Conclusion &nbsp;</a>
 </p>
 
 ## &#9741; &nbsp; Overview
