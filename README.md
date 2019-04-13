@@ -4,9 +4,9 @@
 
 <br>
 
-## ** <body>
-  <p style="color:#C21212";> Foundations of Computer Science - Project </p>
-</body> **
+<body>
+  <p style="color:#C21212";> ## **Foundations of Computer Science - Project** </p>
+</body>
 
 Here I am: **[@malborroni](https://github.com/malborroni)** </style>
 
