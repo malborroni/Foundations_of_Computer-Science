@@ -44,25 +44,12 @@ All groups and individual must do the following:
 | Exercise 4  | _Cluster the apps according to the major android version (the first two digits — e.g. for 4.0.3 the major version is 4.0)_                                                                                | 2           | &#10006;    |
 | Exercise 5  | _For each cluster, compute the average date and the last date of an update._    | 2           | &#10006;    |
 | Exercise 6  | _Excluding the free apps, what is the content rating with highest average price?_                           | 2   | &#10006;    |
-|             |                                                                                |     |      |
-| Exercise 1  |                                   | NO   | 2048    |
-| Exercise 2  | [Fantasque Sans][f-fant]          | NO   | 2048    |
-| Exercise 3  | [Fira Code][f-fira-code]          | YES  | 1000    |
-| Exercise 4  | [Fira][f-fira-mono]               | YES  | &#10006;    | 
-| [Go Mono Nerd Font][p-go-mono]                    | [Go-Mono][f-go-mono]              | NO   | 1000    |
-| [Gohu Nerd Font][p-gohu]                          | [Gohu TTF][f-gohu2],[Gohu][f-gohu]| NO   | 1000    |
-| [Hack Nerd Font][p-hack]                          | [Hack][f-hack]                    | NO   | 2048    |
-| [Hasklug Nerd Font*][p-hasklig]                   | [Hasklig][f-hasklig]              | YES  | 1000    |
-| [Heavy Data Mono Nerd Font][p-heavy-data]         |                                   | NO   | 2048    |
-| [Hermut Nerd Font][p-hermit]                      |                                   | NO   | 1000    |
-| [Inconsolata Nerd Font][p-inconsolata]            |                                   | NO   | 1000    |
-| [Inconsolata Go Nerd Font][p-inconsolata-go]      |                                   | NO   | 1000    |
-| [Inconsolata LGC Nerd Font][p-inconsolata-lgc]    |                                   | NO   | 1000    |
-| [Iosevka Nerd Font][p-iosevka]                    | [Iosevka][f-iosevka]              | YES  | 1000    |
-| [Lekton Nerd Font][p-lekton]                      |                                   | NO   | 1000    |
-| [Literation Mono Nerd Font][p-liberation]         | [Liberation][f-liberation]        | YES  | 2048    |
-| [Meslo Nerd Font][p-meslo]                        |                                   | NO   | 2048    |
-| [Monofur Nerd Font][p-monofur]                    |                                   | NO   | 2400    |
+|             |                                                                                 |             |             |
+| Exercise 1  | _What is the genre with the highest total income?_                              | 3           | &#10006;    |
+| Exercise 2  | _What is the genre with the highest fraction of free apps (over the number of all apps)?_                   | 3   | &#10006;    |
+| Exercise 3  | _For each rating, compute the average income_                                   | 3           | &#10006;    |
+| Exercise 4  | _For each (Content Rating, Genre) pair, compute the number of reviews and the average rating_               | 3   | &#10006;    | 
+
 
 
 Here I am: **[@malborroni](https://github.com/malborroni)**
