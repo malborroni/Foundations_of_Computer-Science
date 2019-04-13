@@ -58,7 +58,7 @@ All groups and individual must do the following:
 | Exercise 11 |                                   | NO   | 2048    |
 | Exercise 12 | [Fantasque Sans][f-fant]          | NO   | 2048    |
 | Exercise 13 | [Fira Code][f-fira-code]          | YES  | 1000    |
-| Exercise 14 | [Fira][f-fira-mono]               | YES  | &#10008;    | 
+| Exercise 14 | [Fira][f-fira-mono]               | YES  | &#10006;    | 
 | [Go Mono Nerd Font][p-go-mono]                    | [Go-Mono][f-go-mono]              | NO   | 1000    |
 | [Gohu Nerd Font][p-gohu]                          | [Gohu TTF][f-gohu2],[Gohu][f-gohu]| NO   | 1000    |
 | [Hack Nerd Font][p-hack]                          | [Hack][f-hack]                    | NO   | 2048    |
