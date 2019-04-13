@@ -8,8 +8,7 @@
   <p style="color:#C21212";> Foundations of Computer Science - Project </p>
 </body>
 
-Here I am: **[@malborroni](https://github.com/malborroni)** </style>
-
+Here I am: **[@malborroni](https://github.com/malborroni)**
 ## &nbsp;
 <br>
 
