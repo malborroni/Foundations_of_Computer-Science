@@ -62,13 +62,12 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 4. Post any question on the [Discussions](https://elearning.unimib.it/mod/forum/view.php?id=238437) forum.
 
 
-<a href="contact_us.html">
-   <button class="button -blue -bordered">
-       <span class="button--inner">Google Play Store</span>
-   </button>
-</a>
-
-
+<a href="http://goole.com"><button>Go to Google</button></a>
+     <form action="http://google.com">
+        <input type="submit" value="Go to Google" />
+     </form>
+    
+    
 Here I am: **[@malborroni](https://github.com/malborroni)**
 ## &nbsp;
 <br>
