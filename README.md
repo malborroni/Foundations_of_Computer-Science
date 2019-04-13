@@ -4,8 +4,6 @@
 
 <br>
 
-## **Foundations of Computer Science (FoCS) - Project**
-
 <h1 align="center">
   <br>
   Foundations of Computer Science (FoCS) - Project
