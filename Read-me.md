@@ -16,8 +16,10 @@
 </p>
 
 ## &#9741; &nbsp; Overview
+<a name="overview"></a>
 
 ## &#9741; &nbsp; Instructions
+<a name="instructions"></a>
 
 Starting from the *Google Play Store dataset*, all groups and individuals must do the following:
 
