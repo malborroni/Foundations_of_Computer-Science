@@ -38,20 +38,20 @@ All groups and individual must do the following:
 
 |                                                   | To do list                        | Team size    | Status     |
 |:--------------------------------------------------|:----------------------------------|:-------------|:-----------|
-| Convert the app sizes to a number                 | [3270][f-3270]                    | NO   | 1000    | ![w] ![m2] ![l]   |
-| [Anonymice Nerd Font][p-anonymous-pro]            | [Anonymous Pro][f-a-pro]          | NO   | 2048    | ![w] ![m2] ![l]   |
-| [Arimo][p-arimo]                                  | [Arimo][f-arimo]                  | NO   | 2048    | ![w] ![m2] ![l]   |
-| [Aurulent Sans Mono Nerd Font][p-aurulent]        |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
-| [BigBlueTerminal][p-bigblueterm]                  |                                   | NO   | 1200    | ![w] ![m2] ![l]   |
-| [Bitstream Vera Sans Mono Nerd Font][p-bitstream] |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
-| [Blex*][p-blex]                                   | [IBM Plex][f-ibm-plex]            | YES  | 1000    | ![w] ![m2] ![l]   |
-| [Code New Roman Nerd Font][p-code-nr]             |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
-| [Cousine Nerd Font][p-cousine]                    | [Cousine][f-cousine]              | NO   | 1000    | ![w] ![m2] ![l]   |
-| [DejaVu Sans Mono Nerd Font][p-dejavu]            |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
-| [Droid Sans Mono Nerd Font][p-droid]              |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
-| [Fantasque Sans Nerd Font][p-fantasque]           | [Fantasque Sans][f-fant]          | NO   | 2048    | ![w] ![m2] ![l]   |
-| [Fura Code Nerd Font*][p-fira-code]               | [Fira Code][f-fira-code]          | YES  | 1000    | ![w] ![m2] ![l]   |
-| [Fura Mono Nerd Font*][p-fira-mono]               | [Fira][f-fira-mono]               | YES  | 1000    | ![w] ![m2] ![l]   |
+| Exercise 1  | Convert the app sizes to a number                    | NO   | 1000    | ![w] ![m2] ![l]   |
+| Exercise 2  | [Anonymous Pro][f-a-pro]          | NO   | 2048    | ![w] ![m2] ![l]   |
+| Exercise 3  | [Arimo][f-arimo]                  | NO   | 2048    | ![w] ![m2] ![l]   |
+| Exercise 4  |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
+| Exercise 5  |                                   | NO   | 1200    | ![w] ![m2] ![l]   |
+| Exercise 6  |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
+| Exercise 7  | [IBM Plex][f-ibm-plex]            | YES  | 1000    | ![w] ![m2] ![l]   |
+| Exercise 8  |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
+| Exercise 9  | [Cousine][f-cousine]              | NO   | 1000    | ![w] ![m2] ![l]   |
+| Exercise 10 |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
+| Exercise 11 |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
+| Exercise 12 | [Fantasque Sans][f-fant]          | NO   | 2048    | ![w] ![m2] ![l]   |
+| Exercise 13 | [Fira Code][f-fira-code]          | YES  | 1000    | ![w] ![m2] ![l]   |
+| Exercise 14 | [Fira][f-fira-mono]               | YES  | 1000    | ![w] ![m2] ![l]   |
 | [Go Mono Nerd Font][p-go-mono]                    | [Go-Mono][f-go-mono]              | NO   | 1000    | ![w] ![m2] ![l]   |
 | [Gohu Nerd Font][p-gohu]                          | [Gohu TTF][f-gohu2],[Gohu][f-gohu]| NO   | 1000    | ![w] ![m2] ![l]   |
 | [Hack Nerd Font][p-hack]                          | [Hack][f-hack]                    | NO   | 2048    | ![w] ![m2] ![l]   |
