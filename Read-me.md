@@ -62,6 +62,16 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 4. Post any question on the [Discussions](https://elearning.unimib.it/mod/forum/view.php?id=238437) forum.
 
 
+<html>
+   <head>
+      <title>Title of the document</title>
+   </head>
+   <body>
+      <button onclick="window.location.href = 'https://w3docs.com';">Google Play Store</button>
+   </body>
+</html>
+
+
 <button onclick="location.href='http://www.example.com'" type="button">
          www.example.com</button>
 
