@@ -62,6 +62,10 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 4. Post any question on the [Discussions](https://elearning.unimib.it/mod/forum/view.php?id=238437) forum.
 
 
+<button onclick="location.href='http://www.example.com'" type="button">
+         www.example.com</button>
+
+
 Here I am: **[@malborroni](https://github.com/malborroni)**
 ## &nbsp;
 <br>
