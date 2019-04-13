@@ -18,8 +18,7 @@
 
 ## Instructions
 
-Starting from the Google Play Store dataset,
-All groups and individual must do the following:
+Starting from the Google Play Store dataset, all groups and individuals must do the following:
 
 
 
@@ -50,6 +49,12 @@ All groups and individual must do the following:
 | Exercise 3  | _For each rating, compute the average income_                                   | 3           | &#10006;    |
 | Exercise 4  | _For each (Content Rating, Genre) pair, compute the number of reviews and the average rating_               | 3   | &#10006;    | 
 
+Notes
+
+1. It is mandatory to use [GitHub] for developing the project.
+2. The project must be a jupyter notebook.
+3. There is no restriction on the libraries that can be used, nor on the Python version.
+4. Post any question on the Discussions forum
 
 
 Here I am: **[@malborroni](https://github.com/malborroni)**
