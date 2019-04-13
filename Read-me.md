@@ -62,33 +62,7 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 4. Post any question on the [Discussions](https://elearning.unimib.it/mod/forum/view.php?id=238437) forum.
 
 
-<style>
- 
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-  }
-
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-  }
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-  }
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-  }
-  
-  </style> 
+[`Google Play Store`](https://raw.githubusercontent.com/gdv/foundationsCS-2018/master/ex-data/project/googleplaystore.csv)
     
     
 Here I am: **[@malborroni](https://github.com/malborroni)**
