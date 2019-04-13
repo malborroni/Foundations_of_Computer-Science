@@ -34,15 +34,24 @@ All groups and individual must do the following:
 
 
 
-|                                                   | To do list                             | Team size  | Status     |
-|:--------------------------------------------------|:---------------------------------------|:-----------|:-----------|
-| Exercise 1  | Convert the app sizes to a number                                            | 1          | Done    |
-| Exercise 2  | Convert the number of installs to a number                                   | 1          | Done    |
-| Exercise 3  | Transform “Varies with device” into a missing value                          | 1          | Done    |
-| Exercise 4  | Convert Current Ver and Android Ver into a dotted number (e.g. 4.0.3 or 4.2) | 1          | 1000    |
-| Exercise 5  |                                                                              | 1          | 1200    |
-| Exercise 6  |                                                                              | 1          | 2048    |
-| Exercise 7  | [IBM Plex][f-ibm-plex]                                                       | 1          | 1000    |
+|                                                   | To do list                             | Team size    | Status      |
+|:--------------------------------------------------|:---------------------------------------|:-------------|:------------|
+| Exercise 1  | Convert the app sizes to a number                                            | 1            | &#10004;    |
+| Exercise 2  | Convert the number of installs to a number                                   | 1            | &#10004;    |
+| Exercise 3  | Transform “Varies with device” into a missing value                          | 1            | &#10004;    |
+| Exercise 4  | Convert Current Ver and Android Ver into a dotted number (e.g. 4.0.3 or 4.2) | 1            | &#10004;    |
+| Exercise 5  |                                                                              | 1            | &#10004;    |
+| Exercise 6  |                                                                              | 1            | &#10004;    |
+| Exercise 7  | [IBM Plex][f-ibm-plex]                                                       | 1            | &#10004;    |
+| Exercise 8  |                                                                              | 1            | &#10004;    |
+| Exercise 9  |                                                                              | 1            | &#10004;    |
+| Exercise 10 | [IBM Plex][f-ibm-plex]                                                       | 1            | &#10004;    |
+| Exercise 11 |                                                                              | 1            | &#10004;    |
+| Exercise 12 |                                                                              | 1            | &#10004;    |
+| Exercise 7  | [IBM Plex][f-ibm-plex]                                                       | 1            | &#10004;    |
+| Exercise 5  |                                                                              | 1            | &#10004;    |
+| Exercise 6  |                                                                              | 1            | &#10004;    |
+| Exercise 7  | [IBM Plex][f-ibm-plex]                                                       | 1            | &#10004;    |
 | Exercise 8  |                                   | NO   | 2048    |
 | Exercise 9  | [Cousine][f-cousine]              | NO   | 1000    |
 | Exercise 10 |                                   | NO   | 2048    |
