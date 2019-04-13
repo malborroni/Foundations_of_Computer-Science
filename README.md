@@ -21,9 +21,7 @@
 Starting from the Google Play Store dataset,
 All groups and individual must do the following:
 
-    Convert the app sizes to a number
-    Convert the number of installs to a number
-    Transform “Varies with device” into a missing value
+    
     Convert Current Ver and Android Ver into a dotted number (e.g. 4.0.3 or 4.2)
     Remove the duplicates
     For each category, compute the number of apps
@@ -39,9 +37,9 @@ All groups and individual must do the following:
 |                                                   | To do list                        | Team size    | Status     |
 |:--------------------------------------------------|:----------------------------------|:-------------|:-----------|
 | Exercise 1  | Convert the app sizes to a number                    | NO   | 1000    | ![w] ![m2] ![l]   |
-| Exercise 2  | [Anonymous Pro][f-a-pro]          | NO   | 2048    | ![w] ![m2] ![l]   |
-| Exercise 3  | [Arimo][f-arimo]                  | NO   | 2048    | ![w] ![m2] ![l]   |
-| Exercise 4  |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
+| Exercise 2  | Convert the number of installs to a number           | NO   | 2048    | ![w] ![m2] ![l]   |
+| Exercise 3  | Transform “Varies with device” into a missing value  | NO   | 2048    | ![w] ![m2] ![l]   |
+| Exercise 4  | Convert Current Ver and Android Ver into a dotted number (e.g. 4.0.3 or 4.2)                                  | NO   | 1000    | ![w] ![m2] ![l]   |
 | Exercise 5  |                                   | NO   | 1200    | ![w] ![m2] ![l]   |
 | Exercise 6  |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
 | Exercise 7  | [IBM Plex][f-ibm-plex]            | YES  | 1000    | ![w] ![m2] ![l]   |
