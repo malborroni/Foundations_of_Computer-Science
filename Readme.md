@@ -82,6 +82,15 @@ Too see an example of what you can find on Google Play, click on the image right
   <a href="https://play.google.com/store/apps/details?id=it.easystaff.unimib"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GPS.png" width = "20%"></a>
 </p>
 
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style> [![Proguard](./proguard-snippets.png)](http://www.thiengo.com.br/proguard-android){: .image-left } Your Text comes here...
+
 <a name="conclusion"></a>
 ## &#9741; &nbsp; Conclusion
 
