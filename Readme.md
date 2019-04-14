@@ -76,15 +76,16 @@ Note that clicking on the link will redirect you to the raw format of the datase
 
 &nbsp;&nbsp;&nbsp; &#9667; &nbsp; [Google Play Store: User reviews](https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/datasets/googleplaystore_user_reviews.csv)
 
-Too see an example of what you can find on Google Play, click on the image right here:
+Too see an example of what you can find on Google Play, click on the image below.
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=it.easystaff.unimib"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GPS.png" width = "30%"></a>
+  <a href="https://play.google.com/store/apps/details?id=it.easystaff.unimib"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GPS.png" width = "35%"></a>
 </p>
 
 
 <a name="conclusion"></a>
 ## &#9741; &nbsp; Conclusion
+
 
     
 Here I am: **[@malborroni](https://github.com/malborroni)**
