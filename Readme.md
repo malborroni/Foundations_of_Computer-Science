@@ -72,8 +72,8 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 Here you can find the Google Play Store datasets used for the project.<br>
 Notice that clicking on these link will directly start a download of the CSV files.
 
-<a href="/images/GitHub.png" download="OKKK">
-  <img src="/images/GitHub.png" alt="W3Schools" width="104" height="142">
+<a href = "/images/GitHub.png" download = "OKKK">
+  <img src = "/images/GitHub.png" alt = "GitHub" width="104" height="104">
 </a>
 
 &nbsp;&nbsp;&nbsp; &#9667; &nbsp; [Google Play Store](https://raw.githubusercontent.com/gdv/foundationsCS-2018/master/ex-data/project/googleplaystore.csv) 
