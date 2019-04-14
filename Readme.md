@@ -79,7 +79,7 @@ Note that clicking on the link will redirect you to the raw format of the datase
 Too see an example of what you can find on Google Play, click on the image right here:
 
 <p align="right">
-  <a href="https://play.google.com/store/apps/details?id=it.easystaff.unimib"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GPS.png" width = "20%" align = "right"></a>
+  <a href="https://play.google.com/store/apps/details?id=it.easystaff.unimib"><img src = "https://github.com/malborroni/Foundations_of_Computer-Science/blob/master/images/GPS.png" width = "20%"></a>
 </p>
 
 <a name="conclusion"></a>
