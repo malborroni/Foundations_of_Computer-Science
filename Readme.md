@@ -21,7 +21,7 @@
 ## &#9741; &nbsp; Overview
 
 Here you can find my solution to a project carried out to complete the examination of a class of the Master's Degree Course in Data Science that I am attending in Milan. <br>
-The project consists in the resolution of a certain number of exercises that vary according to the number of the Workteamd, having two datasets available (that can be found in the "Datasets" section). <br>
+The project consists in the resolution of a certain number of exercises that vary according to the number of the workteam, having two datasets available (that can be found in the "Datasets" section). <br>
 In my case, I approached the project individually, so I only had to resolve the first 12 exercises.
 
 
@@ -69,14 +69,10 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 <a name="datasets"></a>
 ## &#9741; &nbsp; Datasets
 
-Here you can find the Google Play Store datasets used for the project.<br>
-Notice that clicking on these link will directly start a download of the CSV files.
+Here you can find the Google Play Store datasets used for the project. <br>
+Note that clicking on the link will redirect you to the raw format of the datasets, from which you can download the CSV files you need.
 
-<a href = "/images/GitHub.png" download = "OKKK">
-  <img src = "/images/GitHub.png" alt = "GitHub" width="104" height="104">
-</a>
-
-&nbsp;&nbsp;&nbsp; &#9667; &nbsp; [Google Play Store](https://raw.githubusercontent.com/gdv/foundationsCS-2018/master/ex-data/project/googleplaystore.csv) 
+&nbsp;&nbsp;&nbsp; &#9667; &nbsp; [Google Play Store](https://raw.githubusercontent.com/gdv/foundationsCS-2018/master/ex-data/project/googleplaystore.csv)
 
 
 <a name="conclusion"></a>
