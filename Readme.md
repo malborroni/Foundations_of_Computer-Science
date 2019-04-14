@@ -71,7 +71,7 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 
 Here you can find the Google Play Store datasets used for the project.
 
-&nbsp;&nbsp;&nbsp; &#9667; [Google Play Store](https://raw.githubusercontent.com/gdv/foundationsCS-2018/master/ex-data/project/googleplaystore.csv) 
+&nbsp;&nbsp;&nbsp; &#9667; &nbsp; [Google Play Store](https://raw.githubusercontent.com/gdv/foundationsCS-2018/master/ex-data/project/googleplaystore.csv) 
 
 
 <a name="conclusion"></a>
