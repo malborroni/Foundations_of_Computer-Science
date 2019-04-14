@@ -61,9 +61,16 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 3. There is no restriction on the libraries that can be used, nor on the Python version;
 4. Post any question on the [Discussions](https://elearning.unimib.it/mod/forum/view.php?id=238437) forum.
 
+<a name="datasets"></a>
+## &#9741; &nbsp; Datasets
+
 
 | [`Google Play Store`](https://raw.githubusercontent.com/gdv/foundationsCS-2018/master/ex-data/project/googleplaystore.csv) |
-    
+
+
+<a name="conclusion"></a>
+## &#9741; &nbsp; Conclusion
+
     
 Here I am: **[@malborroni](https://github.com/malborroni)**
 ## &nbsp;
