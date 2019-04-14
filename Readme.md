@@ -20,11 +20,11 @@
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
 
-Here you can find my solution to a project carried out to complete the examination of a class of the Master's Degree Course in Data Science that I am attending in Milan. <br>
+Here you can find my solution to a project carried out to complete the examination of a class of the Master's Degree Course in Data Science that I am attending at University of Milano-Bicocca. <br>
 The project consists in the resolution of a certain number of exercises that vary according to the number of the workteam, having two datasets available (that can be found in the "Datasets" section). <br>
 In my case, I approached the project individually, so I only had to resolve the first 12 exercises. <br>
-The various exercises require the correct use of Python, the famous programming language, with all the libraries we decided to use, among which we must mention numpy and pandas, saw during the lectures of the course. <br>
-The main purpose of this project is to manipulate the aforementioned datasets and to extract from data the most varied informations regarding the Google Play Store and its applications.
+The various exercises require the correct use of Python, the famous programming language, with all the libraries we decided to use, among which we must mention *numpy* and *pandas*, saw during the lectures of the course. <br>
+The main purpose of this project is to manipulate the aforementioned datasets and to extract from the data the most varied informations regarding the **Google Play Store** and its applications.
 
 
 <a name="instructions"></a>
@@ -88,6 +88,8 @@ Too see an example of what you can find on Google Play, click on the image below
 <a name="conclusion"></a>
 ## &#9741; &nbsp; Conclusion
 
+There wasn't a specific goal to reach with this project, so I have not so much to tell as a conclusion. <br>
+But...
 
     
 Here I am: **[@malborroni](https://github.com/malborroni)**
