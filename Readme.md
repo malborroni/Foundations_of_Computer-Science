@@ -72,8 +72,9 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 Here you can find the Google Play Store datasets used for the project. <br>
 Note that clicking on the link will redirect you to the raw format of the datasets, from which you can download the CSV files you need.
 
-&nbsp;&nbsp;&nbsp; &#9667; &nbsp; [Google Play Store](https://raw.githubusercontent.com/gdv/foundationsCS-2018/master/ex-data/project/googleplaystore.csv)
+&nbsp;&nbsp;&nbsp; &#9667; &nbsp; [Google Play Store](https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/datasets/googleplaystore.csv)
 
+&nbsp;&nbsp;&nbsp; &#9667; &nbsp; [Google Play Store: User reviews](https://raw.githubusercontent.com/malborroni/Foundations_of_Computer-Science/master/datasets/googleplaystore_user_reviews.csv)
 
 <a name="conclusion"></a>
 ## &#9741; &nbsp; Conclusion
