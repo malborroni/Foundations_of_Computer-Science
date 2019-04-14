@@ -20,6 +20,11 @@
 <a name="overview"></a>
 ## &#9741; &nbsp; Overview
 
+Here you can find my solution to a project carried out to complete the examination of a class of the Master's Degree Course in Data Science that I am attending in Milan. <br>
+The project consists in the resolution of a certain number of exercises that vary according to the number of the Workteamd, having two datasets available (that can be found in the "Datasets" section). <br>
+In my case, I approached the project individually, so I only had to resolve the first 12 exercises.
+
+
 <a name="instructions"></a>
 ## &#9741; &nbsp; Instructions
 
@@ -27,8 +32,8 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 
 
 
-| References    | To do list                        | Team size    | Status      |
-|:------------|:----------------------------------|:------------:|:-----------:|
+| References  | To do list                                                                     | Team size    | Status      |
+|:------------|:-------------------------------------------------------------------------------|:------------:|:-----------:|
 | Exercise 1  | _Convert the app sizes to a number_                                            | 1            | &#10004;    |
 | Exercise 2  | _Convert the number of installs to a number_                                   | 1            | &#10004;    |
 | Exercise 3  | _Transform “Varies with device” into a missing value_                          | 1            | &#10004;    |
@@ -64,8 +69,9 @@ Starting from the *Google Play Store dataset*, all groups and individuals must d
 <a name="datasets"></a>
 ## &#9741; &nbsp; Datasets
 
+Here you can find the Google Play Store datasets used for the project.
 
-| [`Google Play Store`](https://raw.githubusercontent.com/gdv/foundationsCS-2018/master/ex-data/project/googleplaystore.csv) |
+&nbsp;&nbsp;&nbsp; &#9667; [Google Play Store](https://raw.githubusercontent.com/gdv/foundationsCS-2018/master/ex-data/project/googleplaystore.csv) 
 
 
 <a name="conclusion"></a>
