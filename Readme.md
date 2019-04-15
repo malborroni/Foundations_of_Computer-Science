@@ -95,8 +95,11 @@ Furthermore, extracting information from the datasets always offers the opportun
 
 <a name="aboutme"></a>
 ## &#9741; &nbsp; What about me
-  
-Here I am: **[@malborroni](https://github.com/malborroni)**
+
+Hi everybody, my name is Alessandro Borroni and I am a _Data Science_ student based in Milan. <br>
+I have a kind of great passion for Photography and Mathematics. <br>
+I have a degree in Business Economics, obtained at University of Milan-Bicocca. Thanks to this degree I developed, inter alia, an interest in Statistics and Finance.
+
 ## &nbsp;
 <br>
 
