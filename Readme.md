@@ -100,7 +100,7 @@ Hi everybody, my name is Alessandro Borroni and I am a _Data Science_ student ba
 I have a kind of great passion for _Photography_ and _Mathematics_. <br>
 My previous goal consists in a degree in Business Economics, obtained at University of Milan-Bicocca. Thanks to this degree I developed, inter alia, an interest in _Statistics_ and _Finance_. <br>
 <br>
-Down here you can find some of my Social Media channels, check them out if you want:
+Down here you can find some of my Social Media channels, check them out if you want!
 
 ## &nbsp;
 <br>
