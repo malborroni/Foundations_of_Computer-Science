@@ -13,7 +13,7 @@
   <a href="#instructions">&nbsp; Instructions &nbsp;</a> |
   <a href="#datasets">&nbsp; Datasets &nbsp;</a> |
   <a href="#conclusion">&nbsp; Conclusion &nbsp;</a> |
-  <a href="#aboutme">&nbsp; What about me &nbsp;</a>
+  <a href="#aboutme">&nbsp; About me &nbsp;</a>
 </p>
 
 <br>
@@ -94,7 +94,7 @@ But surely it is important to say that this course, with this method of examinat
 Furthermore, extracting information from the datasets always offers the opportunity to reveal some hidden trends in the data, which is important to get a more precise and clear idea about the field of interest, with which you may not be totally confident.
 
 <a name="aboutme"></a>
-## &#9741; &nbsp; What about me
+## &#9741; &nbsp; About me
 
 Hi everybody, my name is Alessandro Borroni and I am a _Data Science_ student based in Milan, as the picture up there had already told you. <br>
 I have a kind of great passion for _Photography_ and _Mathematics_. <br>
