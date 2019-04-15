@@ -92,7 +92,9 @@ There wasn't a specific goal to reach with this project, so I have not so much t
 But surely it is important to say that this course, with this method of examination, gave me the opportunity to become familiar with a language that was new to me and that certainly has an important role in the idea of work that awaits me in the future.
 Furthermore, extracting information from the datasets always offers the opportunity to reveal some hidden trends in the data, which is important to get a more precise and clear idea about the field of interest, with which you may not be totally confident.
 
-    
+<a name="aboutme"></a>
+## &#9741; &nbsp; What about me
+  
 Here I am: **[@malborroni](https://github.com/malborroni)**
 ## &nbsp;
 <br>
